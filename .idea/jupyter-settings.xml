@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="Python 3.12 (Electric_vehicle_range_prediction)" />
+              <option name="sdkName" value="Python 3.8 (Sagemaker_integration)" />
             </JupyterConnectionParameters>
           </value>
         </entry>
